@@ -1,4 +1,4 @@
-shioaji
+fubon-neo
 rich
 fastapi[all]
 pydantic
